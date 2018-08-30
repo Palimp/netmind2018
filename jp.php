@@ -18,3 +18,7 @@ function chachiPiruli($name) {
 function doble($numero){
     return $numero*2;    
 }
+
+function triple($numero) {
+    return $numero * 3;
+}
