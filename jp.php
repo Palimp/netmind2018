@@ -8,3 +8,6 @@ function calcularIVA(){
     $precio=1000;
     return $precio*$iva;
 }
+function doble($numero){
+    return $numero*2;    
+}
